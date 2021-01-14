@@ -1,6 +1,7 @@
 *.swp
 .DS_Store
 *.jpg
+*.jpeg
 *.py
 */.__main__.get_url
 *.json
