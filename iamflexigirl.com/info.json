@@ -1,5 +1,21 @@
 {
-	    "v001-45": {
+    "v001-46": {
+        "description": "Today is a video from my daily workout, so I keep myself in shape.",
+        "name": "Limber exercises",
+        "previews": [
+            {
+                "type": "image",
+                "location": "v001-46_cover.jpg",
+                "url": "https://iamflexigirl.com/wp-content/uploads/2021/02/v001-46_cover.jpg"
+            }
+        ],
+        "date": "2021-02-16",
+        "url": "https://iamflexigirl.com/updates/limber-exercises/",
+		"size": {
+			"duration": "07:29"
+		}
+    },
+	"v001-45": {
         "description": "If you love my legs, then this video is for you! I tie my sexy legs around me in a knot. It’s very extreme, you will definitely like it.",
         "name": "Sexy Legs",
         "previews": [
