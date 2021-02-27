@@ -2385,7 +2385,7 @@
     },
     "elena3_01": {
         "model": [
-            "Anya"
+            "Elena"
         ],
         "date": "2015-09-11",
         "size": {
@@ -2394,8 +2394,8 @@
         "previews": [
             {
                 "type": "image",
-                "url": "http://flexshow.com/upload/iblock/b05/_mg_5946.jpg",
-                "location": "_mg_5946.jpg"
+                "url": "http://flexshow.com/upload/iblock/30a/_mg_5944.jpg",
+                "location": "_mg_5944.jpg"
             }
         ]
     },
@@ -2575,6 +2575,22 @@
             }
         ]
     },
+	"anya3_02": {
+		"model": [
+			"Anya"
+		],
+		"date": "2015-09-11",
+		"size": {
+			"images": 0
+		},
+		"previews": [
+			{
+				"type": "image",
+				"url": "http://flexshow.com/upload/iblock/b05/_mg_5946.jpg",
+				"location": "_mg_5946.jpg"
+			}
+		]
+	},
     "anya2_05": {
         "model": [
             "Anya"
