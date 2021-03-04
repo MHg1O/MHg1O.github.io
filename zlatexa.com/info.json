@@ -1,4 +1,23 @@
 {
+    "173-01": {
+        "name": "Hard seating / backstage video",
+        "date": "2021-03-02",
+        "size": {
+            "duration": "04:39"
+        },
+        "previews": [
+            {
+                "type": "image",
+                "location": "173-01_1.jpg",
+                "url": "https://zlatexa.com/free/content/173-01/1.jpg"
+            },
+            {
+                "type": "image",
+                "location": "173-01_2.jpg",
+                "url": "https://zlatexa.com/free/content/173-01/2.jpg"
+            }
+        ]
+    },
     "172-02": {
         "name": "Fantastic boots",
         "date": "2021-02-23",
