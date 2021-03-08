@@ -1,4 +1,23 @@
 {
+    "174-01": {
+        "name": "Bendy dream performance",
+        "date": "2021-03-08",
+        "size": {
+            "duration": "07:05"
+        },
+        "previews": [
+            {
+                "type": "image",
+                "location": "174-01_1.jpg",
+                "url": "https://zlatexa.com/free/content/174-01/1.jpg"
+            },
+            {
+                "type": "image",
+                "location": "174-01_2.jpg",
+                "url": "https://zlatexa.com/free/content/174-01/2.jpg"
+            }
+        ]
+    },
     "173-01": {
         "name": "Hard seating / backstage video",
         "date": "2021-03-02",
