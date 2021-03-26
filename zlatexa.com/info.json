@@ -1,4 +1,42 @@
 {
+    "176-01": {
+        "name": "Cover shooting backstage",
+        "date": "2021-03-24",
+        "size": {
+            "duration": "02:58"
+        },
+        "previews": [
+            {
+                "type": "image",
+                "location": "176-01_1.jpg",
+                "url": "https://zlatexa.com/free/content/176-01/1.jpg"
+            },
+            {
+                "type": "image",
+                "location": "176-01_2.jpg",
+                "url": "https://zlatexa.com/free/content/176-01/2.jpg"
+            }
+        ]
+    },
+    "175-02": {
+        "name": "Burning flexibility",
+        "date": "2021-03-14",
+        "size": {
+            "images": "200"
+        },
+        "previews": [
+            {
+                "type": "image",
+                "location": "175-02_1.jpg",
+                "url": "https://zlatexa.com/free/content/175-02/1.jpg"
+            },
+            {
+                "type": "image",
+                "location": "175-02_2.jpg",
+                "url": "https://zlatexa.com/free/content/175-02/2.jpg"
+            }
+        ]
+    },
     "174-01": {
         "name": "Bendy dream performance",
         "date": "2021-03-08",
