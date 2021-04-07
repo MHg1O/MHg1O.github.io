@@ -8,10 +8,6 @@
         ],
         "size": [
             {
-                "size": "05:57",
-                "type": "duration"
-            },
-            {
                 "size": "188",
                 "type": "images"
             }
@@ -25,10 +21,6 @@
             "https://zlatexa.com/free/content/002-01_cvb/2.jpg"
         ],
         "size": [
-            {
-                "size": "07:57",
-                "type": "duration"
-            },
             {
                 "size": "102",
                 "type": "images"
@@ -44,10 +36,6 @@
         ],
         "size": [
             {
-                "size": "07:57",
-                "type": "duration"
-            },
-            {
                 "size": "102",
                 "type": "images"
             }
@@ -61,10 +49,6 @@
             "https://zlatexa.com/free/content/004-01_swe/2.jpg"
         ],
         "size": [
-            {
-                "size": "07:41",
-                "type": "duration"
-            },
             {
                 "size": "130",
                 "type": "images"
@@ -80,10 +64,6 @@
         ],
         "size": [
             {
-                "size": "05:13",
-                "type": "duration"
-            },
-            {
                 "size": "153",
                 "type": "images"
             }
@@ -97,10 +77,6 @@
             "https://zlatexa.com/free/content/006-01_sed/2.jpg"
         ],
         "size": [
-            {
-                "size": "06:30",
-                "type": "duration"
-            },
             {
                 "size": "140",
                 "type": "images"
@@ -116,10 +92,6 @@
         ],
         "size": [
             {
-                "size": "05:01",
-                "type": "duration"
-            },
-            {
                 "size": "104",
                 "type": "images"
             }
@@ -133,10 +105,6 @@
             "https://zlatexa.com/free/content/008-01_uhj/2.jpg"
         ],
         "size": [
-            {
-                "size": "08:53",
-                "type": "duration"
-            },
             {
                 "size": "227",
                 "type": "images"
@@ -152,10 +120,6 @@
         ],
         "size": [
             {
-                "size": "04:41",
-                "type": "duration"
-            },
-            {
                 "size": "96",
                 "type": "images"
             }
@@ -169,10 +133,6 @@
             "https://zlatexa.com/free/content/010-01_tzu/2.jpg"
         ],
         "size": [
-            {
-                "size": "10:53",
-                "type": "duration"
-            },
             {
                 "size": "120",
                 "type": "images"
@@ -230,10 +190,6 @@
         ],
         "size": [
             {
-                "size": "03:53",
-                "type": "duration"
-            },
-            {
                 "size": "122",
                 "type": "images"
             }
@@ -290,10 +246,6 @@
         ],
         "size": [
             {
-                "size": "02:26",
-                "type": "duration"
-            },
-            {
                 "size": "125",
                 "type": "images"
             }
@@ -307,10 +259,6 @@
             "https://zlatexa.com/free/content/019-01_igv/2.jpg"
         ],
         "size": [
-            {
-                "size": "03:54",
-                "type": "duration"
-            },
             {
                 "size": "141",
                 "type": "images"
@@ -326,10 +274,6 @@
         ],
         "size": [
             {
-                "size": "05:59",
-                "type": "duration"
-            },
-            {
                 "size": "293",
                 "type": "images"
             }
@@ -343,10 +287,6 @@
             "https://zlatexa.com/free/content/021-01_ohn/2.jpg"
         ],
         "size": [
-            {
-                "size": "02:25",
-                "type": "duration"
-            },
             {
                 "size": "63",
                 "type": "images"
@@ -431,10 +371,6 @@
             "https://zlatexa.com/free/content/027-01_ofn/2.jpg"
         ],
         "size": [
-            {
-                "size": "10:39",
-                "type": "duration"
-            },
             {
                 "size": "251",
                 "type": "images"
@@ -1514,10 +1450,6 @@
         ],
         "size": [
             {
-                "size": "04:58",
-                "type": "duration"
-            },
-            {
                 "size": "62",
                 "type": "images"
             }
@@ -1783,10 +1715,6 @@
             "https://zlatexa.com/free/content/131/2.jpg"
         ],
         "size": [
-            {
-                "size": "07:25",
-                "type": "duration"
-            },
             {
                 "size": "86",
                 "type": "images"
@@ -2433,6 +2361,20 @@
         "size": [
             {
                 "size": "03:27",
+                "type": "duration"
+            }
+        ]
+    },
+    "178-01": {
+        "date": "2021-04-07",
+        "name": "Extraordinary",
+        "previews": [
+            "https://zlatexa.com/free/content/178-01/1.jpg",
+            "https://zlatexa.com/free/content/178-01/2.jpg"
+        ],
+        "size": [
+            {
+                "size": "08:05",
                 "type": "duration"
             }
         ]
