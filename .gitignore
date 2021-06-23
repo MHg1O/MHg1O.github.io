@@ -3,7 +3,7 @@
 *.jpg
 *.jpeg
 *.py
-*/.__main__.get_url
+*/.__main__.*
 *.json
 *.mp4
 *.gif
